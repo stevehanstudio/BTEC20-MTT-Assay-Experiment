@@ -7,6 +7,11 @@ This repository contains the analysis code and data for a MTT Assay Experiment c
 - `plot_ic50.R` - R script for analyzing MTT assay data and generating dose-response curves
 - `mtt_assay_data.csv` - Raw absorbance data from the MTT assay experiment
 - `ic50_plot.png` - Generated plot showing the effect of caffeine on CHO cell viability
+- `BioTek_ELx808_readings.jpg` - Screenshot of raw absorbance readings from the BioTek ELx808 microplate reader
+
+## Experimental Setup
+
+The experiment was conducted using a BioTek ELx808 microplate reader to measure absorbance at 570 nm. The screenshot shows the raw data output from the microplate reader, displaying absorbance values for each well in a 96-well plate format. Wells were color-coded based on absorbance intensity, with darker colors indicating higher absorbance values.
 
 ## Analysis
 
